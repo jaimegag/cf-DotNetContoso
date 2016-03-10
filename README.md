@@ -25,7 +25,7 @@ The code is provided pre-built so you can push without compiling the code.
 
 There are batch files in each project folder (`demo1.bat` in contoso-university-V1 and `demo2.bat` in contoso-university-V2) that will issue the right push command and bind the right services.
 
-Please see the supporting java app [available here](https://github.com/saurabhguptasg/servicebus "servicebus") that pumps messages into the Azure Service Bus: please note that the `contoso-demo-queue` service must be provided to this app before it can function correctly.
+Please see the supporting java app [available here](https://github.com/jaimegag/servicebus "servicebus") that pumps messages into the Azure Service Bus: please note that the `contoso-demo-queue` service must be provided to this app before it can function correctly.
 
 ## Usage
 
