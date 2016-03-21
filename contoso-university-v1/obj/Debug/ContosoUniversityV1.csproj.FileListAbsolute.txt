@@ -13,3 +13,19 @@ C:\projects\contoso-university\contoso-university-v1\obj\Debug\ContosoUniversity
 C:\projects\contoso-university\contoso-university-v1\bin\Microsoft.ServiceBus.dll
 C:\projects\contoso-university\contoso-university-v1\bin\Microsoft.WindowsAzure.Configuration.dll
 C:\projects\contoso-university\contoso-university-v1\bin\Microsoft.ServiceBus.xml
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\bin\ContosoUniversity.dll.config
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\bin\ContosoUniversity.dll
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\bin\ContosoUniversity.pdb
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\bin\Microsoft.ServiceBus.dll
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\bin\Microsoft.WindowsAzure.Configuration.dll
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\bin\Microsoft.ServiceBus.xml
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversityV1.csprojResolveAssemblyReference.cache
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversityV1.csproj.GenerateResource.Cache
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.dll
+Z:\jaguilar On My Mac\Code\Demos\cf-DotNetContoso\contoso-university-v1\obj\Debug\ContosoUniversity.pdb
